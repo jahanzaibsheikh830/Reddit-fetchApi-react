@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.room{
+  height: 100vh;
+}
+.dark{
+  background-color: black;
+  color: #ffffff;
+}
+.bright{
+  background-color: pink;
+  color: #000000;
+}
